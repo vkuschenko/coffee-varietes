@@ -1,0 +1,13 @@
+.flag-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.flag {
+    width: 30px;
+    height: 20px;
+    margin: 2px;
+    border: solid 1px #ccc;
+}
